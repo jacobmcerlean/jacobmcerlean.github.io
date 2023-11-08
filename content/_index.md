@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: About Me
+      title:  Welcome! In 2021, I began my graduate studies in the math department at Duke University, where I am supported as an NSF Graduate Research Fellow and as an NSF aiM Trainee and Fellow. I am advised by Prof. Hau-Tieng Wu, who is at New York University's Courant Institute of Mathematical Sciences. 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   #- block: skills
@@ -200,6 +200,11 @@ sections:
   #  design:
   #    columns: '2'
   #    view: card
+
+  - block: collection
+    id: research
+    content: 
+      title: Research 
   - block: collection
     id: pubs
     content:
@@ -223,16 +228,16 @@ sections:
       title: Teaching
 
 
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+  #- block: collection
+  #  id: talks
+  #  content:
+  #    title: Recent & Upcoming Talks
+  #    filters:
+  #      folders:
+  #        - event
+  #  design:
+  #    columns: '2'
+  #    view: compact
   #- block: tag_cloud
   #  content:
   #    title: Popular Topics
@@ -244,9 +249,8 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        My email is below, with reasonable numeral-to-letter substitutions.
        #Contact (add or remove contact options as necessary)
-      email: jac0b.mc3rl3an@duke.3du
+      email: jacob.mcerlean@duke.edu
    #   phone: 888 888 88 88
    #   appointment_url: 'https://calendly.com'
       address:
