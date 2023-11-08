@@ -10,7 +10,7 @@ sections:
     content:
       title: Hugo Academic Theme
       image:
-        filename: duke-favicon.png
+        filename: icon.png
       cta:
         label: '**Get Started**'
         url: https://wowchemy.com/templates/
