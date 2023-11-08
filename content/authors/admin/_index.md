@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jacob McErlean
+title: Jacob D. McErlean
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -10,7 +10,7 @@ first_name: Jacob
 last_name: McErlean
 
 # Status emoji
-status:
+status: 
   icon: ''
 
 # Is this the primary user of the site?
@@ -33,7 +33,7 @@ interests:
   - Manifold Learning
   - Signal Processing
   - Random Matrix Theory
-  - Biomedical and Materials Science Data
+  #- Biomedical and Materials Science Data
 
 # Education to show in About widget
 education:
