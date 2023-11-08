@@ -40,9 +40,7 @@ sections:
     id: about
     content:
       title: About Me
-      text:  Welcome! In 2021, I began my graduate studies in the math department at Duke University, where I am supported as an NSF Graduate Research Fellow and as an NSF aiM Trainee and Fellow. I am advised by Prof. Hau-Tieng Wu, who is at New York University's Courant Institute of Mathematical Sciences. 
-
-      # Choose a user profile to display (a folder name within `content/authors/`)
+        # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   #- block: skills
   #  content:

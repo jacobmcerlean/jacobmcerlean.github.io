@@ -119,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-Insert bio....
+Welcome! In 2021, I began my graduate studies in the math department at Duke University, where I am supported as an NSF Graduate Research Fellow and as an NSF aiM Trainee and Fellow. I am advised by Prof. Hau-Tieng Wu, who is at New York University's Courant Institute of Mathematical Sciences. .
 {style="text-align: justify;"}
