@@ -206,8 +206,7 @@ sections:
     content: 
       title: Research 
       subtitle:
-      text: |- 
-      I am interested in developing techniques to understand high-dimensional data. In particular, I am interested in leveraging the inherent geometry of data arising in the manifold setting, i.e., numerical implementation of applied differential geometry. As such data is often biomedical, financial, or materials process time-series, I am also interested in signal processing and applied harmonic analysis. As I am an NSF aiM trainee, I also investigate manifold learning problems which arise from materials science data. Additionally,  random matrix theory provides a framework to understand the role of high-dimensional noise in these situations, and conversely, interesting ensembles of random matrices appear in the context of high-dimensional and geometric data analysis.
+      text: I am interested in developing techniques to understand high-dimensional data. In particular, I am interested in leveraging the inherent geometry of data arising in the manifold setting, i.e., numerical implementation of applied differential geometry. As such data is often biomedical, financial, or materials process time-series, I am also interested in signal processing and applied harmonic analysis. As I am an NSF aiM trainee, I also investigate manifold learning problems which arise from materials science data. Additionally,  random matrix theory provides a framework to understand the role of high-dimensional noise in these situations, and conversely, interesting ensembles of random matrices appear in the context of high-dimensional and geometric data analysis.
           
   - block: collection
     id: pubs
