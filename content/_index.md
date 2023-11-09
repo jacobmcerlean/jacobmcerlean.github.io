@@ -201,7 +201,7 @@ sections:
   #    columns: '2'
   #    view: card
 
-  - block: collection
+  - block: about.biography
     id: research
     content: 
       title: Research 
