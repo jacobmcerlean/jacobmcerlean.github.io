@@ -247,9 +247,9 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-       #Contact (add or remove contact options as necessary)
+      #subtitle:
+      #text: |-
+      #Contact (add or remove contact options as necessary)
       email: jacob.mcerlean@duke.edu
    #   phone: 888 888 88 88
    #   appointment_url: 'https://calendly.com'
@@ -266,8 +266,8 @@ sections:
    #     - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '36.0009004'
+        longitude: '-78.9449014'  
     #  contact_links:
     #    - icon: twitter
     #      icon_pack: fab

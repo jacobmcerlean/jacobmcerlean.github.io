@@ -25,7 +25,7 @@ organizations:
     url: https://www.duke.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 'Insert bio.'
+bio: 'Insert bio'
 
 # Interests to show in About widget
 interests:
@@ -101,13 +101,13 @@ social:
   #    header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=CcccpcEAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jacobmcerlean
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jacobmcerlean
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -119,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-Welcome! In 2021, I began my graduate studies in the math department at Duke University, where I am supported as an NSF Graduate Research Fellow and as an NSF aiM Trainee and Fellow. I am advised by Prof. Hau-Tieng Wu, who is at New York University's Courant Institute of Mathematical Sciences. .
+Welcome! In 2021, I began my graduate studies in the math department at Duke University, where I am supported as an NSF Graduate Research Fellow and as an NSF aiM Trainee and Fellow. I am advised by Prof. Hau-Tieng Wu, who is at New York University's Courant Institute of Mathematical Sciences 
 {style="text-align: justify;"}
