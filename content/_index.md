@@ -205,6 +205,9 @@ sections:
     id: research
     content: 
       title: Research 
+      subtitle:
+      text: |- 
+          
   - block: collection
     id: pubs
     content:
